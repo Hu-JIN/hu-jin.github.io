@@ -7,7 +7,7 @@ subtitle: Department of Biomedical Informatics, Harvard Medical School
 profile:
   align: right
   image: headshot.JPG
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>Office 315A</p>
     <p>10 Shattuck St, 3rd Floor</p>
